@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	// an array with 3 rows and 2 columns.
+	
 	int x[3][2] = { {0,1}, {2,3}, {4,5} };
 
 	// output each array element's value
